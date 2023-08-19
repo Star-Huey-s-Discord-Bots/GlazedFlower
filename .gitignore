@@ -1,3 +1,4 @@
 .env
-ServersData/
+ServersData/*
+!ServersData/Template
 Disabled/

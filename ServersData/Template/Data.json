@@ -1,0 +1,19 @@
+{
+    "customResponse": {
+        "react": [],
+        "reply": []
+    },
+    "scheduler": [],
+    "games": {
+        "abalone": []
+    },
+    "channelConfig": [],
+    "volume": 1,
+    "reminders": [],
+    "combinedRoles": [],
+    "commonRoles": {
+        "member": "",
+        "bot": ""
+    },
+    "reactionRoles": []
+}

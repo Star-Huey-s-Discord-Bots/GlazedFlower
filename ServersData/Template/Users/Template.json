@@ -1,0 +1,25 @@
+{
+    "economy": {
+        "coins": 200,
+        "daily": {
+            "amount": 100,
+            "date": 0,
+            "sustained": 1
+        }
+    },
+    "games": {
+        "guess": {
+            "times": -1,
+            "bet": 0,
+            "answer": 0,
+            "thread": ""
+        },
+        "bnc": {
+            "times": -1,
+            "bet": 0,
+            "answer": 0,
+            "thread": ""
+        }
+    },
+    "mails": []
+}
